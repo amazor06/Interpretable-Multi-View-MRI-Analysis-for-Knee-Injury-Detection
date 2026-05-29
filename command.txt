@@ -1,0 +1,2 @@
+cd "/Users/arielmazor/Documents/BIOE 184 Project Python/Project Enviournment"
+source knee-mri-env/bin/activate
